@@ -1,5 +1,7 @@
 # Cap - HackTheBox Walkthrough
 
+![Cap Solved](./Cap%20Solved.png)
+
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![OS](https://img.shields.io/badge/OS-Linux-blue) ![Rating](https://img.shields.io/badge/Rating-4.6%2F5-yellow)
 
 ---
@@ -538,4 +540,5 @@ Here's the complete path we took from nothing to root:
 ---
 
 [← Back to Track](../README.md) | [← Back to Main](../../README.md)
+
 
