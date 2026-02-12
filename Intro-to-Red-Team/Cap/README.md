@@ -1,17 +1,13 @@
-# Cap - HackTheBox Walkthrough
+<div align="center">
+  <h1> Cap - HackTheBox Walkthrough</h1>
+  <img src="https://htb-mp-prod-public-storage.s3.eu-central-1.amazonaws.com/avatars/70ea3357a2d090af11a0953ec8717e90.png" width="120" style="border-radius: 50%; border: 4px solid #9fef00;">
 
-![Cap Solved](./Cap%20Solved.png)
+  <br>
 
----
-
-## 📋 Machine Info
-
-- **Name:** Cap
-- **IP:** 10.129.1.216
-- **OS:** Linux (Ubuntu 20.04.2 LTS)
-- **Difficulty:** Easy
-- **Release Date:** June 5, 2021
-- **Retired Date:** October 2, 2021
+  ### 📋 Machine Info
+  **Name:** Cap | **IP:** 10.129.1.216 | **OS:** Linux (Ubuntu 20.04.2 LTS)
+  **Difficulty:** Easy | **Release:** June 5, 2021 | **Retired:** Oct 2, 2021
+</div>
 
 ---
 
@@ -538,6 +534,7 @@ Here's the complete path we took from nothing to root:
 ---
 
 [← Back to Track](../README.md) | [← Back to Main](../../README.md)
+
 
 
 
