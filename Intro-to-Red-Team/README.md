@@ -21,8 +21,8 @@ The **Intro to Red Team** track is a beginner-friendly learning path on HackTheB
 
 | # | Machine | OS | Difficulty | User Flag | Root Flag | Writeup | Date Completed |
 |---|---------|-----|-----------|-----------|-----------|---------|----------------|
-| 1 | **[Cap](./Cap/)** | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="20"/> | Easy | ✅ | ✅ | [📝 Full Writeup](https://github.com/Halfinity/HackTheBox-Writeups/tree/main/Intro-to-Red-Team/Cap) | Feb 12, 2026 |
-| 2 | **Jerry** | <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" height="20"/> | Easy | 🔄 | 🔄 | ⏳ In Progress | - |
+| 1 | **Cap** | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="20"/> | Easy | ✅ | ✅ | [📝 Full Writeup](https://github.com/Halfinity/HackTheBox-Writeups/tree/main/Intro-to-Red-Team/Cap) | Feb 12, 2026 |
+| 2 | **Jerry** | <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" height="20"/> | Easy | ✅ | ✅ | [📝 Full Writeup](https://github.com/Halfinity/HackTheBox-Writeups/tree/main/Intro-to-Red-Team/Jerry) | Feb 13, 2026 |
 | 3 | **Sau** | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="20"/> | Easy | 🔄 | 🔄 | ⏳ In Progress | - |
 | 4 | **GoodGames** | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="20"/> | Easy | ⬜ | ⬜ | ⏳ Pending | - |
 | 5 | **Devvortex** | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="20"/> | Easy | ⬜ | ⬜ | ⏳ Pending | - |
