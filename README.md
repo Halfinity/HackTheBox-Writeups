@@ -36,14 +36,6 @@ Welcome to my HackTheBox writeups collection! This repository contains detailed 
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 </p>
 
-**Commonly Used:**
-- **Recon:** Nmap, Masscan, Rustscan
-- **Web:** Burp Suite, Gobuster, Nikto, WhatWeb
-- **Exploitation:** Metasploit, SearchSploit, Custom scripts
-- **Enumeration:** LinPEAS, WinPEAS, Linux Smart Enumeration
-- **Analysis:** Wireshark, tcpdump
-- **Reference:** GTFOBins, LOLBAS, PayloadsAllTheThings
-
 ---
 
 ## 🔗 Useful Resources
@@ -114,5 +106,6 @@ This repository is for educational purposes. All writeups and content are origin
 <p align="center">
   <sub>Made with ❤️ by <a href="https://github.com/halfinity">Halfinity</a></sub>
 </p>
+
 
 
