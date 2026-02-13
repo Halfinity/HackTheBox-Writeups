@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Cap - HackTheBox Walkthrough</h1>
+  <h1> Jerry - HackTheBox Walkthrough</h1>
   <img src="https://htb-mp-prod-public-storage.s3.eu-central-1.amazonaws.com/avatars/59f03a24178dbb2bdc94968c201e21f8.png" width="120" style="border-radius: 50%; border: 4px solid #9fef00;">
 
   <br>
