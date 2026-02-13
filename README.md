@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00"/>
-  <img src="https://img.shields.io/badge/Total%20Machines-1-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Total%20Machines-3-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Pwned-3-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/User%20Flags-3-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Root%20Flags-3-orange?style=for-the-badge"/>
@@ -114,4 +114,5 @@ This repository is for educational purposes. All writeups and content are origin
 <p align="center">
   <sub>Made with ❤️ by <a href="https://github.com/halfinity">Halfinity</a></sub>
 </p>
+
 
