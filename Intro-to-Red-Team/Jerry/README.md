@@ -1,9 +1,14 @@
-# Jerry - HackTheBox Walkthrough
+<div align="center">
+  <h1> Cap - HackTheBox Walkthrough</h1>
+  <img src="https://htb-mp-prod-public-storage.s3.eu-central-1.amazonaws.com/avatars/59f03a24178dbb2bdc94968c201e21f8.png" width="120" style="border-radius: 50%; border: 4px solid #9fef00;">
 
-## 📋 Machine Info
+  <br>
 
-**Name:** Jerry | **IP:** 10.129.136.9 | **OS:** Windows Server 2012 R2  
-**Difficulty:** Easy | **Release:** June 30, 2018 | **Retired:** Nov 3, 2018
+  ### 📋 Machine Info
+  **Name:** Jerry | **IP:** 10.129.136.9 | **OS:** Windows Server 2012 R2
+  **Difficulty:** Easy | **Release:** June 30, 2018 | **Retired:** Nov 3, 2018
+</div>
+
 
 ---
 
